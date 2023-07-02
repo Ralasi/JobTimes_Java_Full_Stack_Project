@@ -10,10 +10,10 @@ The three main roles are admin, recruiter and candidate. The admin role ensures 
 By centralizing the job search and application processes, JobTimes simplifies the experience for both job seekers and recruiters. Our goal is to optimize the job search journey and enhancing overall efficiency.
 
 ## Tools and Technology 
-FRONT-END : HTML, CSS, JavaScript, Bootstrap
-BACK-END : JDBC, Servlets, JSP, JSTL
-DATABASE : MySQL
-SERVER : Apache Tomcat v9.0
+### FRONT-END : HTML, CSS, JavaScript, Bootstrap
+### BACK-END : JDBC, Servlets, JSP, JSTL
+### DATABASE : MySQL
+### SERVER : Apache Tomcat v9.0
 
 ## Some Samples Screenshots of Website
 
