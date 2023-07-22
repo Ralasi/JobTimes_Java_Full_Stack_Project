@@ -39,6 +39,9 @@ By centralizing the job search and application processes, JobTimes simplifies th
 ## Database : MySQL
 ![Screenshot (274)](https://github.com/Ralasi/JobTimes_Java_Full_Stack_Project/assets/128724283/8200d9c5-9a05-43a1-9b00-ae853da98df9)
 
+##Data Flow Diagram
+![Data flow diagram](https://github.com/Ralasi/JobTimes_Java_Full_Stack_Project/assets/128724283/b28928fe-c73d-42b2-adcb-c57486fc52ed)
+
 
 
 
